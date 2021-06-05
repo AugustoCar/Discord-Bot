@@ -1,0 +1,21 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./Sorce/bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "collections": "^5.1.12",
+    "config": "^3.3.4",
+    "count": "^0.1.8",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "edit-json-file": "^1.5.0"
+  }
+}
